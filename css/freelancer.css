@@ -47,10 +47,6 @@
   box-sizing: border-box;
 }
 
-.profilepic {
-  
-}
-
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -7570,7 +7566,6 @@ button.bg-dark:focus {
 .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
-  border-radius: 50%;
 }
 
 .ml-5,
